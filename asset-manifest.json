@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/time-wasting/static/css/main.fbf9ae7a.css",
-    "main.js": "/time-wasting/static/js/main.24033e1b.js",
+    "main.js": "/time-wasting/static/js/main.3d324eba.js",
     "index.html": "/time-wasting/index.html",
     "main.fbf9ae7a.css.map": "/time-wasting/static/css/main.fbf9ae7a.css.map",
-    "main.24033e1b.js.map": "/time-wasting/static/js/main.24033e1b.js.map"
+    "main.3d324eba.js.map": "/time-wasting/static/js/main.3d324eba.js.map"
   },
   "entrypoints": [
     "static/css/main.fbf9ae7a.css",
-    "static/js/main.24033e1b.js"
+    "static/js/main.3d324eba.js"
   ]
 }
