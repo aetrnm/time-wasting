@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aetrnm/time-wasting/static/css/main.fbf9ae7a.css",
+    "main.js": "/aetrnm/time-wasting/static/js/main.24033e1b.js",
+    "index.html": "/aetrnm/time-wasting/index.html",
+    "main.fbf9ae7a.css.map": "/aetrnm/time-wasting/static/css/main.fbf9ae7a.css.map",
+    "main.24033e1b.js.map": "/aetrnm/time-wasting/static/js/main.24033e1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf9ae7a.css",
+    "static/js/main.24033e1b.js"
+  ]
+}
