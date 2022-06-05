@@ -1,1 +1,1 @@
-# Stop wasting your time.
+# Stop wasting your life.

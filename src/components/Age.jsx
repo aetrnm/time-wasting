@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { differenceInMilliseconds } from "date-fns";
-import { Typography } from "@mui/material";
+import { Paper, Typography } from "@mui/material";
 
 function Age({ dayOfBirth }) {
   const [diff, setDiff] = useState(
@@ -10,9 +10,11 @@ function Age({ dayOfBirth }) {
     setDiff(differenceInMilliseconds(new Date(), dayOfBirth));
   }, 100);
   return (
-    <Typography variant="subtitle1" display="block" gutterBottom>
-      Your age is: {(diff / 31556952000).toFixed(10)}
-    </Typography>
+    <Paper elevation={8} sx={{ p: 4 }}>
+      <Typography variant="h4" display="block" gutterBottom>
+        Your age is: {(diff / 31556952000).toFixed(10)}
+      </Typography>
+    </Paper>
   );
 }
 
