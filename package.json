@@ -2,7 +2,7 @@
   "name": "time-wasting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aetrnm.github.io",
+  "homepage": "https://aetrnm.github.io/time-wasting",
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
     "@emotion/react": "^11.9.0",
