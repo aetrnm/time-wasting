@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/time-wasting/static/css/main.7c551a3b.css",
-    "main.js": "/time-wasting/static/js/main.04d86034.js",
+    "main.css": "/time-wasting/static/css/main.5e41044a.css",
+    "main.js": "/time-wasting/static/js/main.d606a7b4.js",
     "index.html": "/time-wasting/index.html",
-    "main.7c551a3b.css.map": "/time-wasting/static/css/main.7c551a3b.css.map",
-    "main.04d86034.js.map": "/time-wasting/static/js/main.04d86034.js.map"
+    "main.5e41044a.css.map": "/time-wasting/static/css/main.5e41044a.css.map",
+    "main.d606a7b4.js.map": "/time-wasting/static/js/main.d606a7b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c551a3b.css",
-    "static/js/main.04d86034.js"
+    "static/css/main.5e41044a.css",
+    "static/js/main.d606a7b4.js"
   ]
 }
