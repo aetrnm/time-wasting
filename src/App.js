@@ -4,8 +4,15 @@ import MyDatePicker from "./components/MyDatePicker";
 import { Box, ThemeProvider } from "@mui/system";
 import { Typography } from "@mui/material";
 import { createTheme, responsiveFontSizes } from "@mui/material/styles";
+import { grey } from "@mui/material/colors";
 
-let theme = createTheme();
+let theme = createTheme({
+  typography: {
+    allVariants: {
+      color: grey[900],
+    },
+  },
+});
 theme = responsiveFontSizes(theme);
 
 function App() {
